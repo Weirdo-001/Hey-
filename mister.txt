@@ -1,3 +1,8 @@
 Mister
 Wowwie Misterrr
+<<<<<<< HEAD
 Humans are weirddddd
+=======
+Howw are you?
+changes
+>>>>>>> new
